@@ -1,1 +1,1 @@
-# ulstu_database_course
+# database_course
